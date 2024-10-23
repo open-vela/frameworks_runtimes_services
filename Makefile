@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-MENUDESC = "Base"
+MENUDESC = "Services"
 
 include $(APPDIR)/Directory.mk
